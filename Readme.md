@@ -6,6 +6,10 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-Charts-green?logo=matplotlib)
 ![License: MIT](https://img.shields.io/badge/License-MIT-purple)
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/c0b93498-89ba-40f4-8aa3-b446465ae7ec" />
+
+
+
 An **Exploratory Data Analysis (EDA)** project that explores the world of **OTT platforms** (Netflix, Amazon Prime, Disney+, Hulu, etc.) to uncover **content trends, audience preferences, and platform strategies**.  
 Through insightful visualizations and statistical analysis, this project transforms raw data into meaningful insights.
 
@@ -79,3 +83,4 @@ This EDA answers key questions like:
    ```bash
    git clone https://github.com/yourusername/eda-ott-trends.git
    cd eda-ott-trends
+
